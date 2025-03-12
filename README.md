@@ -40,13 +40,16 @@ npm (Node Package Manager)
 
 Cloning the Repository
 
-git clone https://github.com/JavaScript-Mastery-Pro/moodflix.git
-cd moodflix
+git clone [https://github.com/JavaScript-Mastery-Pro/moodflix.git](https://github.com/saifeddine-jmem/cinema.git)
+
+cd cinema
+
 Installation
 
 Install the project dependencies using npm:
 
 npm install
+
 Set Up Environment Variables
 
 Create a new file named .env.local in the root of your project and add the following content:
@@ -54,7 +57,9 @@ Create a new file named .env.local in the root of your project and add the follo
 VITE_IMDB_API_KEY=
 
 VITE_APPWRITE_PROJECT_ID=
+
 VITE_APPWRITE_DATABASE_ID=
+
 VITE_APPWRITE_COLLECTION_ID=
 
 Replace the placeholder values with your actual TheMovieDatabase API and Appwrite credentials. You can obtain these credentials by signing up on the TheMovieDatabase and creating a new project on the Appwrite
