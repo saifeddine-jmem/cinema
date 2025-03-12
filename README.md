@@ -1,10 +1,13 @@
 🤖 Introduction
+
 Built with React.js for the user interface, Appwrite for the Trending Movies Algorithm, and styled with TailwindCSS. The platform offers a sleek and modern experience for browsing and discovering movies.
 
 ⚙️ Tech Stack
 
 React.js
+
 Appwrite
+
 Tailwind CSS
 
 🔋 Features
@@ -22,6 +25,7 @@ Tailwind CSS
 and many more, including code architecture and reusability
 
 🤸 Quick Start
+
 Follow these steps to set up the project locally on your machine.
 
 Prerequisites
@@ -29,8 +33,11 @@ Prerequisites
 Make sure you have the following installed on your machine:
 
 Git
+
 Node.js
+
 npm (Node Package Manager)
+
 Cloning the Repository
 
 git clone https://github.com/JavaScript-Mastery-Pro/moodflix.git
